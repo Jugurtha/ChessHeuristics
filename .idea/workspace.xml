@@ -11,7 +11,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebd69de4-0177-43ab-8628-a71aef501518" name="Default Changelist" comment="" />
+    <list default="true" id="ebd69de4-0177-43ab-8628-a71aef501518" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,8 +45,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/jeu.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="947" column="17" selection-start-line="947" selection-start-column="17" selection-end-line="947" selection-end-column="17" />
+            <state relative-caret-position="35">
+              <caret line="961" column="25" lean-forward="true" selection-start-line="961" selection-start-column="25" selection-end-line="961" selection-end-column="25" />
               <folding>
                 <element signature="e#646#664#0" expanded="true" />
                 <element signature="e#1043#1377#0" />
@@ -102,6 +105,9 @@
       <replace>i, j, conf</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/jeu.c" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -120,6 +126,7 @@
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -140,6 +147,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/CMakeLists.txt" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -184,12 +192,12 @@
       <workItem from="1580291792259" duration="3821000" />
       <workItem from="1580313657563" duration="6018000" />
       <workItem from="1580878283385" duration="135000" />
-      <workItem from="1582390196868" duration="11149000" />
+      <workItem from="1582390196868" duration="12171000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40555000" />
+    <option name="totallyTimeSpent" value="41577000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -202,9 +210,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4840336" weight="0.4799358" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4840336" visible="true" weight="0.17473525" />
       <window_info id="Structure" order="1" sideWeight="0.5159664" side_tool="true" weight="0.5313002" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -259,8 +266,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jeu.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="947" column="17" selection-start-line="947" selection-start-column="17" selection-end-line="947" selection-end-column="17" />
+        <state relative-caret-position="35">
+          <caret line="961" column="25" lean-forward="true" selection-start-line="961" selection-start-column="25" selection-end-line="961" selection-end-column="25" />
           <folding>
             <element signature="e#646#664#0" expanded="true" />
             <element signature="e#1043#1377#0" />
